@@ -1,2 +1,2 @@
 # Ruby_Course
-A Ruby (On Rails) Course
+_**A Ruby (On Rails) Course**_
